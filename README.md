@@ -1,5 +1,7 @@
 <h1>Arduino Temperatur- und Luftfeuchtigkeitsüberwachung</h1>
 
+![alt text](https://i.imgur.com/qb9ox1d.png)
+
 <h2>Beschreibung</h2>
 <p>Dieses Arduino-Projekt verwendet einen DHT22-Sensor zur Messung der Temperatur und Luftfeuchtigkeit in der Umgebung. Es zeigt die gemessenen Werte auf einem LCD-Display an und nutzt außerdem ein TM1637-LED-Display zur Anzeige des maximal zulässigen Temperaturwerts, der durch ein Potentiometer eingestellt werden kann. Zusätzlich verwendet das Projekt drei LEDs (Rot, Grün, Blau), um den Temperaturzustand visuell darzustellen.</p>
 
