@@ -1,3 +1,0 @@
-LiquidCrystal I2C
-Grove 4-Digit Display
-DHT sensor library
